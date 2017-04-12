@@ -1,7 +1,7 @@
 	What happens when you initialize a repository? Why do I need to do it?
 This creates a new set of files that you would potentially like Git to monitor.
-It allows me to track new files for changes and backups
+It allows me to track new files for changes and backups.
 
 
 	How is the staging area different from the working directory and the repository? What value do you think it offers?
-It allows me to consider which files to add or reset before I commit - for this particular portion of the code. It keeps the log clear of unnecessary files that I may have added and then decided against
+It allows me to consider which files to add or reset before I commit - for this particular portion of the code. It keeps the log clear of unnecessary files that I may have added and then decided against.
