@@ -19,3 +19,9 @@ the Master branch intact
 
 	How do the diagrams help you visualize the branch structure?
 It displays the branches and reachability more simply to help figure out how each commit connects to its respective parent
+
+	
+	What is the result of merging two branches? Why do we represent it in the diagram the way we do?
+A branch is used to work on a new addition without interfering with the Master branch. Once the additions
+are complete, merge is used to combine these additions with the Master - taking additions to the master, which may have been introduced while working on the additions, into account.
+Given the complexity of even the sentence above, it stands to reason that a graphical interpretation would be of great benfit to determine how the changes affect the big picture - hence the drawing.
