@@ -10,3 +10,8 @@ It allows me to consider which files to add or reset before I commit - for this 
 	How can you use the staging area to make sure you have one commit per logical change?
 I can compare the staging are to the working dir or the latest commit to be sure that the correct file/s have been added - i.e. one commit per logical change
 
+
+	What are some situations when branches would be helpful in keeping your history organised? How would
+	branches help?
+When creating a significant change a branch makes it easier to monitor the changes while still leaving 
+the Master branch intact
