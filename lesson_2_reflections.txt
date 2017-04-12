@@ -15,3 +15,7 @@ I can compare the staging are to the working dir or the latest commit to be sure
 	branches help?
 When creating a significant change a branch makes it easier to monitor the changes while still leaving 
 the Master branch intact
+
+
+	How do the diagrams help you visualize the branch structure?
+It displays the branches and reachability more simply to help figure out how each commit connects to its respective parent
