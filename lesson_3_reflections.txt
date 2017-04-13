@@ -6,3 +6,12 @@ When collaborating with others. Or for backup purposes.
 In case of conflicts... I'm actually not too sure. If I am working on a file and so is someone else - if 
 it auto-pulls then my file may be overwritten with theirs. I doubt that is the case, actually. So, if my 
 file isn't overwritten, then there will be a conflict when I push - Comme ci, comme ça.
+
+	Describe the differences between forks, clones, and branches. When would you use one instead of the other?
+Fork: clone of repo on Github - used when I am able to use repo but cannot change the original.
+Clone: identical version of my Github repo on my local (or local to local). Used to work on my local or
+online - and for collaborators on my version.
+Branch: identical version of code (at that point in time or commit) on local - copies to Github, but not
+created there. Used when I want to try something in my code on one of my repos, but I do not want that
+change to affect the main, "procution ready", version.
+
