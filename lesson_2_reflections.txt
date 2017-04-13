@@ -4,11 +4,13 @@ It allows me to track new files for changes and backups.
 
 
 	How is the staging area different from the working directory and the repository? What value do you think it offers?
-It allows me to consider which files to add or reset before I commit - for this particular portion of the code. It keeps the log clear of unnecessary files that I may have added and then decided against.
+It allows me to consider which files to add or reset before I commit - for this particular portion of the
+code. It keeps the log clear of unnecessary files that I may have added and then decided against.
 
 
 	How can you use the staging area to make sure you have one commit per logical change?
-I can compare the staging are to the working dir or the latest commit to be sure that the correct file/s have been added - i.e. one commit per logical change
+I can compare the staging are to the working dir or the latest commit to be sure that the correct file/s
+have been added - i.e. one commit per logical change
 
 
 	What are some situations when branches would be helpful in keeping your history organised? How would
@@ -23,9 +25,13 @@ It displays the branches and reachability more simply to help figure out how eac
 	
 	What is the result of merging two branches? Why do we represent it in the diagram the way we do?
 A branch is used to work on a new addition without interfering with the Master branch. Once the additions
-are complete, merge is used to combine these additions with the Master - taking additions to the master, which may have been introduced while working on the additions, into account.
-Given the complexity of even the sentence above, it stands to reason that a graphical interpretation would be of great benfit to determine how the changes affect the big picture - hence the drawing.
+are complete, merge is used to combine these additions with the Master - taking additions to the master, 
+which may have been introduced while working on the additions, into account.
+Given the complexity of even the sentence above, it stands to reason that a graphical interpretation would 
+be of great benfit to determine how the changes affect the big picture - hence the drawing.
 
 
 	What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
-Powerful stuff, Git only fails an auto merge when there are conflicts - which humans need to sort out in any event. Doing a manual merge is extremley time consuming, having a computer do most of it, most of the time is exactly why computers are here in the first place.
+Powerful stuff, Git only fails an auto merge when there are conflicts - which humans need to sort out in
+any event. Doing a manual merge is extremley time consuming, having a computer do most of it, most of the 
+time is exactly why computers are here in the first place.
