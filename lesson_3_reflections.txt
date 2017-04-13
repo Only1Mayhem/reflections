@@ -22,6 +22,12 @@ change to affect the main, "procution ready", version.
 Offline work. You can also determine which collaborators are working on which piece of the project - to a
 certain degree.
 
+
 	How would you collaborate without using Git ot GitHub? What would be easier, and what would be harder?
 Google Docs would work, but it's not specifically designed with code in mind - so it wouldn't color the 
 code. Zipping and emails would be a nightmare. I now understand why Git is so popular.
+
+
+	When would you want to make changes in a seperate branch rather than directly in master? What benefits does each approach have?
+Making changes to master carries risk - if the changes aren't too complicated then this approach is far
+quicker but if the changes adversely affect the production quality, well, enough said.
